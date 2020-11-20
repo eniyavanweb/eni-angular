@@ -1,0 +1,28 @@
+.em-pass
+{
+    position: relative;
+    font-size: 35px;
+    width: 291px;
+}
+.em-pass input
+{
+    width: 282px;
+    height: 38px;
+    font-size: 20px;
+}
+button
+{
+    font-size: 30px;
+    padding: 10px;
+}
+
+.login-page
+{
+    position: absolute;
+    left: 23rem;
+    top: 15rem;
+    background-color: blueviolet;
+    width: 759px;
+    height: 489px;
+    text-align: -webkit-center;
+}

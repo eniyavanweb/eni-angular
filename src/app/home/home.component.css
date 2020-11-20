@@ -1,0 +1,34 @@
+.en
+{
+    position: absolute;
+    top: 205px;
+    left: 506px;
+    text-align: center;
+}
+
+.en h2
+{
+    font-size: 53px;
+}
+
+.hhh
+{
+    width: 1220px;
+    height: 300px;
+    background-color: #0d3053;
+    position: relative;
+    top: 25rem;
+    left: 9rem;
+}
+.hhh h1{
+    color: aqua;
+}
+
+.hhh p{
+    font-size: 28px;
+    width: 840px;
+    position: relative;
+    left: 113px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
